@@ -28,5 +28,9 @@ public static void main(String[] args) {
 	
 	int compareTo = s.compareTo("Lakshmi");
 	System.out.println(compareTo);
+	
+	
+	System.out.println("Harish");
+	System.out.println("Lakshmi narayanan");
 }
 }
