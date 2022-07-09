@@ -74,7 +74,12 @@ System.out.println("append d1 to d = "+System.identityHashCode(append2));
 StringBuffer append3 = e.append(e1);
 System.out.println("append e to e1 = "+System.identityHashCode(append3));
 
+
 System.out.println("welcome");
 System.out.println("Java Selenium");
+
+System.out.println("sam");	}
+
 	}
+
 }
